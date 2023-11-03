@@ -19,4 +19,8 @@ Welcome to the Real-Time Chat Application! This project is a simple and interact
 4. Socket.io: A library for real-time, bidirectional communication.
 
 
+![Screenshot (1)](https://github.com/Dhyrajkumar/Chat-Application/assets/51185423/84763054-e491-40f2-8cdf-3dc3dad3ee4f)
+
+
+
 LinkedIn :- https://www.linkedin.com/in/dheeraj-kumar-159536203/ Email :- dheerajkumar84176@gmail.com
